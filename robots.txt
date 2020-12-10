@@ -1,0 +1,3 @@
+User-Agent: *
+Sitemap: https://hakim.dorboz.com/sitemap.xml
+Allow: /
